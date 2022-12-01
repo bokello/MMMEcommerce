@@ -1,4 +1,4 @@
-package com.mmmshop.ecommerce;
+package com.MMMshop.ecommerce;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
